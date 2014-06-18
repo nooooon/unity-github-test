@@ -4,6 +4,7 @@ using System.Collections;
 public class cube : MonoBehaviour {
 
     //test add test2 user
+    //marge test 2!!!
 
 	// Use this for initialization
 	void Start () {

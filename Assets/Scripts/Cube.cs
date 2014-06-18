@@ -7,6 +7,8 @@ public class cube : MonoBehaviour {
     //add marge test
     //marge test 2!!!
 
+    //issue1
+
 	// Use this for initialization
 	void Start () {
 	

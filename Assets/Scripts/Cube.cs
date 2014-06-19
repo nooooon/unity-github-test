@@ -9,6 +9,7 @@ public class cube : MonoBehaviour {
 
     //issue1
     //issue2
+    //issue3
 
 	// Use this for initialization
 	void Start () {
